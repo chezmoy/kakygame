@@ -6,7 +6,7 @@ in_menu: true
 <body>
    <h1> Bienvenue sur Kakygame </h1>
 
-<h2>Découvre notre chaîne YouTube plein de bonne humeur ! </h2>
+<h2>Découvre notre chaîne YouTube pleine de bonne humeur ! </h2>
 
 <img src="./ice-cream-cone-6387867_1280.png" alt="glace kawaii" class="animee" >
 <div class="image"> <img src="./link images/ice-cream-cone-6387867_1280.png" alt="glace kawaii" class="bas"> </div>

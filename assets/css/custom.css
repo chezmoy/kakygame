@@ -1,6 +1,11 @@
 :root {
     --couleur-primaire : #e4302f;
 }
+
+body {
+background : #F9E79F
+}
  .bleu {
 color : #5499C7
 }
+

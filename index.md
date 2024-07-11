@@ -5,7 +5,7 @@ in_menu: true
 ---
 Bienvenue sur Kakygame
 
-Découvre notre chaîne YouTube plein de bonne humeur !
+<p class="bleu"> Découvre notre chaîne YouTube plein de bonne humeur ! </p>
 À propos de moi: j'aime partager des moments de joie avec ma communauté. Sur ma chaîne YouTube, vous trouverez une collection de shorts différent juste pour s'amuser! 
 
 Pourquoi me suivre ?

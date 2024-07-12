@@ -4,9 +4,9 @@ body{
    
 }
 
-
-
-
+.radial{
+    background: linear-gradient(to right, rgb(255, 0, 132) 15%, pink 35%, rgb(147, 64, 78) 50%);
+}
 
 
 h1{

@@ -33,3 +33,8 @@ Rejoignez moi : Ne manquez pas mes dernières vidéos ! Abonnez vous à ma chaî
  </div>
 
  <a href="http://www.youtube.com/@Kaky_Game" target="_blank">Clique ici pour accéder à ma chaîne youtube</a> 
+
+
+
+ <div class="main-droite"> <img src="link images/hand-308457_1280.png" alt="main"></div>
+ <div class="main-gauche"><img src="link images/hand-308667_1280.png" alt="main"></div> 

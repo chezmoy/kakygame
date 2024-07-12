@@ -5,7 +5,7 @@ body{
 }
 
 .radial{
-    background: linear-gradient(to right, rgb(255, 0, 132) 15%, pink 35%, rgb(147, 64, 78) 50%);
+    background: linear-gradient(to right, rgb(233, 179, 207) 15%, rgb(233, 128, 145) 35%, rgb(231, 109, 130) 50%);
 }
 
 

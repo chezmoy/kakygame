@@ -20,6 +20,11 @@ h2{
    text-align: center;
 
 }
+.right{
+width: 150px;
+
+    float: right;
+}
 
     
 img {

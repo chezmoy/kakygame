@@ -107,3 +107,29 @@ a{
     text-align: center;
 }
    
+
+.main {
+    width: 100px; /* Ajuste la taille selon tes besoins */
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    
+}
+.main-droite {
+    left: 60%;
+    animation: clap-right 0.5s infinite alternate;
+}
+.main-gauche {
+    left: 40%;
+    animation: clap-left 0.5s infinite alternate;
+}
+@keyframes clap-right {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-20px); }
+}
+
+@keyframes clap-left {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(20px); }
+}
+

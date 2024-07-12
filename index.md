@@ -3,7 +3,10 @@ title: "Ice cream"
 order: 0
 in_menu: true
 ---
-<h1> Bienvenue sur Kakygame </h1>
+<div class="radial">
+   <h1> Bienvenue sur Kakygame </h1>
+   </div>
+
 
 <h2>Découvre notre chaîne YouTube pleine de bonne humeur ! </h2>
 

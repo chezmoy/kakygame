@@ -1,29 +1,57 @@
 body{
    background:  #F9E79F ;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    font-weight: 400;
+    font-style: normal;
+  }
+
    
-}
+   
+
+
 
 .radial{
     background: linear-gradient(to right, rgb(233, 179, 207) 15%, rgb(233, 128, 145) 35%, rgb(231, 109, 130) 50%);
 }
 
 
+
 h1{
  text-align: center;
- font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-family:  "Ga Maamli", sans-serif;
  font-style: oblique;
-color : blue;
+ color: blue;
+ font-weight: 600px;
 }
 
 h2{
    text-align: center;
+   
 
 }
-.right{
-width: 150px;
 
-    float: right;
+.premier{
+
+    color: rgb(201, 57, 57);
+    font-weight: bold;
+    
+}
+.second{
+    color: green;
+    font-weight: bold;
+   
+}
+.trois{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+.rigolo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(236, 126, 16);
+    text-align: center;
 }
 
     
@@ -76,4 +104,6 @@ p{
 
 a{
     color: rgb(39, 3, 96);
+    text-align: center;
 }
+   

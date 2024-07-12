@@ -8,7 +8,7 @@ in_menu: true
 <h2>Découvre notre chaîne YouTube pleine de bonne humeur ! </h2>
 
 <img src="images/ice-cream-cone-6387867_1280.png" alt="glace kawaii" class="animee" >
-<div class="images/ice-cream-cone-6387867_1280.png" alt="glace kawaii6387867_1280.png" a class="bas"> </div>
+<img src="images/ice-cream-cone-6387867_1280.png" alt="glace kawaii" class="bas" >
 
 <p>À propos de moi: j'aime partager des moments de joie avec ma communauté. Sur ma chaîne YouTube, vous trouverez une collection de shorts différent juste pour s'amuser! <br> <br>
 Pourquoi me suivre ?
